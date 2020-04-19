@@ -1,0 +1,21 @@
+{
+  "type": "LocCollection",
+  "crs": {
+    "type": "name"
+  },
+  "features": [
+    {
+      "gps": [
+        59.9347212,
+        30.3506727
+     ],
+     "_id": "5e6bcf3955d0ee36c0cb8684",
+     "address": "Ligovsky prospekt, 26",
+     "name": "Du Nord 1834",
+     "description": "French cuisine restaurant",
+     "image": "//////"
+    }
+    
+     
+  ]
+}
