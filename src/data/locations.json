@@ -14,7 +14,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [59.935944, 30.324097]
+        "gps": [59.935944, 30.324097]
       }
     },
     {
@@ -27,8 +27,32 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [59.945202, 30.290302]
+        "gps": [59.945202, 30.290302]
       }
-    }
+    },
+    { "type": "Feature",
+      "properties": {
+        "LOC_ID": 3,
+        "NAME": "Du Nord 1834",
+        "ADRESS": "Ligovsky prospekt, 26",
+        "DESCRIPTION": "French cuisine restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "gps": [59.9347212, 30.3506727]
+      } 
+     },
+     { "type": "Feature",
+      "properties": {
+        "LOC_ID": 4,
+        "NAME": "Rasputin",
+        "ADRESS": "Naberezhnaya reki Mojki, 37",
+        "DESCRIPTION": "Russian cuisine restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "gps": [59.9403511, 30.3165473]
+      } 
+     }
   ]
 }
