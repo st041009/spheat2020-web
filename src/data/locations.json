@@ -1,34 +1,12 @@
 {
-  "type": "LocCollection",
-  "crs": {
-    "type": "name"
-  },
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "LOC_ID": 1,
-        "NAME": "Market Place",
-        "ADRESS": "Nevskiy 22-24",
-        "DESCRIPTION": "Come to us to drink some coffee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [59.935944, 30.324097]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "LOC_ID": 2,
-        "NAME": "GSOM Faculty",
-        "ADRESS": "Volkhovskiy 3",
-        "DESCRIPTION": "Join our unforgetable adventure"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [59.945202, 30.290302]
-      }
+      "gps": [59.9347212, 30.3506727],
+      "_id": "5e6bcf3955d0ee36c0cb8684",
+      "address": "Ligovsky prospekt, 26",
+      "name": "Du Nord 1834",
+      "description": "French cuisine restaurant",
+      "image": "//////"
     }
   ]
 }
